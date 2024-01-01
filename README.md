@@ -7,8 +7,8 @@ The script is used in this demo where I setup Azure Sentinel (SIEM) and connect 
 
 ## Languages Used
 PowerShell: Extract RDP failed logon logs from Windows Event Viewer
-https://github.com/ravana-one/Honeynet-in-Azure/issues/1#issuecomment-1873523136
+![Screenshot 2024-01-01 181808](https://github.com/ravana-one/Honeynet-in-Azure/assets/53973045/bc067232-1887-451a-bdd8-d709b8e51d78)
 
 ## Utilities Used
 ipgeolocation.io: IP Address to Geolocation API
-https://github.com/ravana-one/Honeynet-in-Azure/issues/1#issuecomment-1873522396
+![68747470733a2f2f692e696d6775722e636f6d2f6b725246724b352e706e67](https://github.com/ravana-one/Honeynet-in-Azure/assets/53973045/ad91a3f7-9662-48d2-beca-1009c5148c33)
